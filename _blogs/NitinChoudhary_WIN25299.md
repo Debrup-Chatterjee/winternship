@@ -1,8 +1,8 @@
-
+---
 title: "From 'Left Out' to Leveled Up: My Two-Week MERN Sprint"
 author: Nitin Choudhary
 nptel_id: WIN25299
-
+---
 
 
 It all started on December 22nd. I remember looking at the clock—8:45 AM to nearly 7:00 PM. The sheer scale of the day was intimidating. When the goal was announced—completing the MERN stack in such a short time—I’ll be honest: I was scared. 

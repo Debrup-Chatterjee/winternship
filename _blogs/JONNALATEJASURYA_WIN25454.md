@@ -25,7 +25,7 @@ Professor Sudarshan Iyengar Sir played a key role in shaping the overall learnin
 
 A special mention goes to Nandan Prabhudesai Sir, who taught us the MERN stack through the ViBe platform. His sessions helped me clearly understand core MERN concepts and how different parts of the stack work together. The GitHub and React sessions conducted by him were especially helpful in building practical understanding and confidence. Because of his teaching approach, learning MERN felt structured, approachable, and meaningful.
 
-One moment that particularly stood out during a stand-up session was when Sakshi Ma’am explained how our internship progress is automated using scripts that directly update data in Google Sheets. The explanation was simple yet impactful. It clearly demonstrated how programming can be used to automate everyday processes and how even small ideas can create meaningful and practical solutions.
+One moment that particularly stood out during a Zoom session was when Sakshi Ma’am explained how our internship progress is automated using scripts that directly update data in Google Sheets. The explanation was simple yet impactful. It clearly demonstrated how programming can be used to automate everyday processes and how even small ideas can create meaningful and practical solutions.
 
 The breakout room discussions added another valuable layer to my learning experience. Collaborating with peers while solving case studies exposed me to multiple perspectives. Listening to others explain their thought processes often helped me gain better clarity on concepts and identify gaps in my own understanding.
 

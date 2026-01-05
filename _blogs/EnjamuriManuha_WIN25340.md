@@ -3,7 +3,6 @@ title: "My First Internship: More Than Just an Internship"
 author: Enjamuri Manuha
 nptel_id: WIN25340
 ---
-
 # My First Internship: More Than Just an Internship
 
 ## A Nervous Start

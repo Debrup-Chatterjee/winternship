@@ -20,9 +20,10 @@ Now, as I continue this internship, I feel different from how I started. I am mo
 
 I am grateful to all the professors, mentors, and peers who guided me continuously and created an environment where learning felt challenging but supportive. I truly hope to complete this internship on a positive note and carry these lessons beyond these weeks.
 
+This journey did not just teach me tools or technologies.  
+It taught me patience, confidence, and trust in my own pace of growth.
+
 ---
 
 Author: [Abhrankan Chakrabarti](https://www.linkedin.com/in/abhrankan-chakrabarti-159460214/)
 LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/pulse/my-first-internship-learning-slowly-growing-steadily-chakrabarti-v9lwc)
-This journey did not just teach me tools or technologies.  
-It taught me patience, confidence, and trust in my own pace of growth.

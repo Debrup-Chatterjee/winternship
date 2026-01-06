@@ -22,3 +22,8 @@ I am grateful to all the professors, mentors, and peers who guided me continuous
 
 This journey did not just teach me tools or technologies.  
 It taught me patience, confidence, and trust in my own pace of growth.
+
+---
+
+Author: [Abhrankan Chakrabarti](https://www.linkedin.com/in/abhrankan-chakrabarti-159460214/)
+LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/pulse/my-first-internship-learning-slowly-growing-steadily-chakrabarti-v9lwc)

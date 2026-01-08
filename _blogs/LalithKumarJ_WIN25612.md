@@ -1,5 +1,5 @@
 ---
-title: "My Internship Journey: More Than Just an Internship"
+title: "My Internship Journey: From an Exam to an Experience"
 author: Lalith Kumar J
 nptel_id: WIN25612
 ---
@@ -39,4 +39,4 @@ I’ll end with a quote that now feels very real to me:
 ---
 
 Author: [Lalith Kumar J](https://www.linkedin.com/in/lalith-kumar-jakanathan/)
-LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/pulse/my-internship-journey-more-than-just-lalith-kumar-j-jakanathan-iwzqc)
+LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/pulse/my-internship-journey-more-than-just-lalith-kumar-j-jakanathan-iwzqc) 

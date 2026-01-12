@@ -608,6 +608,13 @@ All endorsements and de-endorsements must be completed **by Friday 16th January 
 
 The Self-Healing Endorsement Network rewards **integrity, collaboration, responsibility, and accountability**.
 
+**14.13 Will Bhavna ma’am conduct Viva sessions in the future so that interns can become Jedi (Bronze ticket holders)?**  
+
+No. Bhavna ma’am will unfortunately **not conduct Viva sessions anymore**. She will only perform audit checks in the form of viva to identify defaulters/anomaly.  
+Earlier, clearing the Viva conducted by Bhavna ma’am allowed interns to become **Bronze ticket holders**. Since this process has now been discontinued, the **set of existing Jedi (Silver, Bronze, and Gold ticket holders) is fixed**.
+
+No new Jedi will be added through Viva going forward.
+
 
 ---
 
